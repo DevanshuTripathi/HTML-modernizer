@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      Hello {smth}
+      Hello my name is {smth}
     </>
   )
 }
